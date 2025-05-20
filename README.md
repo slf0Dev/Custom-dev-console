@@ -1,4 +1,6 @@
 # Custom-dev-console
+![image](https://github.com/user-attachments/assets/4481ca88-28b5-43b6-870f-3c578ea0bf4f)
+
 ## How does it work?
 It uses Roblox's LogService API to collect all logs, errors, and warnings.
 
